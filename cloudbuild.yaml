@@ -30,7 +30,7 @@ steps:
 
 # Substitution variables - set these when triggering the build
 substitutions:
-  _BUCKET_NAME: 'hjerteoghjem'  # Replace with your actual bucket name
+  _BUCKET_NAME: 'hjerteoghjem.dk'  # Replace with your actual bucket name
 
 # Options
 options:
